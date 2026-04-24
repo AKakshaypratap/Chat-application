@@ -36,7 +36,7 @@ The app supports:
   - Tailwind CSS + DaisyUI
   - react-hot-toast
 
-## 📁 Project Structure
+## Project Structure
 
 - `backend/`
   - `index.js` - Express app entry and middleware setup
@@ -52,7 +52,7 @@ The app supports:
   - `src/hooks/` - hooks for API data fetching and realtime update
   - `src/redux/` - state slices and store configuration
 
-## 🔧 Backend Architecture
+## Backend Architecture
 
 ### Authentication
 - `backend/controllers/userController.js`
