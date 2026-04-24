@@ -167,5 +167,3 @@ npm run dev
 - Expand message metadata to include read receipts or timestamps
 
 ---
-
-If you want, I can also add a more compact version of this README or generate a `backend/package.json` `start` script for easier startup.`}
